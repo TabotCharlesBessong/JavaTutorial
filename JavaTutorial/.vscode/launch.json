@@ -1,0 +1,203 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "request": "attach",
+      "name": "Java",
+      "port": 5005,
+      "sourceRoots": []
+    },
+    {
+      "type": "java",
+      "request": "attach",
+      "name": "Java",
+      "port": 5005,
+      "sourceRoots": []
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch AccountTest",
+      "request": "launch",
+      "mainClass": "AccountTest",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch Analysis",
+      "request": "launch",
+      "mainClass": "Analysis",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrayMethod",
+      "request": "launch",
+      "mainClass": "ArrayMethod",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch AutoPolicyTest",
+      "request": "launch",
+      "mainClass": "AutoPolicyTest",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch BasicWhileLoop",
+      "request": "launch",
+      "mainClass": "BasicWhileLoop",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch CompoundInterest",
+      "request": "launch",
+      "mainClass": "CompoundInterest",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch DrawPanelTest",
+      "request": "launch",
+      "mainClass": "DrawPanelTest",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch DrawSmileyTest",
+      "request": "launch",
+      "mainClass": "DrawSmileyTest",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch InitArray",
+      "request": "launch",
+      "mainClass": "InitArray",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch PassArray",
+      "request": "launch",
+      "mainClass": "PassArray",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch RandomNumber",
+      "request": "launch",
+      "mainClass": "RandomNumber",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch ShapeTest",
+      "request": "launch",
+      "mainClass": "ShapeTest",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch StudentTest",
+      "request": "launch",
+      "mainClass": "StudentTest",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch Time1Test",
+      "request": "launch",
+      "mainClass": "Time1Test",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch arraySum",
+      "request": "launch",
+      "mainClass": "arraySum",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch deckOfCardsTest",
+      "request": "launch",
+      "mainClass": "deckOfCardsTest",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch dialog1",
+      "request": "launch",
+      "mainClass": "dialog1",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch forLoopEnhancement",
+      "request": "launch",
+      "mainClass": "forLoopEnhancement",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch gameOfLuck",
+      "request": "launch",
+      "mainClass": "gameOfLuck",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch intro",
+      "request": "launch",
+      "mainClass": "intro",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch rollDice",
+      "request": "launch",
+      "mainClass": "rollDice",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch spreadOperator",
+      "request": "launch",
+      "mainClass": "spreadOperator",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch studentPoll",
+      "request": "launch",
+      "mainClass": "studentPoll",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch sumLoop",
+      "request": "launch",
+      "mainClass": "sumLoop",
+      "projectName": "JavaTutorial_edb7c410"
+    },
+    {
+      "type": "java",
+      "name": "Launch switchStatement",
+      "request": "launch",
+      "mainClass": "switchStatement",
+      "projectName": "JavaTutorial_edb7c410"
+    }
+  ]
+}

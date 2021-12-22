@@ -1,10 +1,11 @@
 {
   "java.project.sourcePaths": [
+    "POKER",
+    "CHAPTER 7 ARRAY",
     "CHAPTER 6",
     "CHAPTER 5",
     "CHAPTER 4",
     "CHAPTER 2",
-    "CHAPTER 7 ARRAY",
-    "POKER"
+    "CHAPTER 9 BJECT CLASS"
   ]
 }
