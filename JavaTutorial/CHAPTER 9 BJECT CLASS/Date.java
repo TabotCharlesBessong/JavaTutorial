@@ -9,9 +9,11 @@ public class Date {
     if(month <= 0 || month > 12)
       throw new IllegalArgumentException("month(" + month + ") must be 1-12");
     //check if month is in range
-    if(day <= 0 || (day > daysPerMonth[month] && !(month ==2 && day == 29) ) )
+    // condition to check if the days of the month is greater than days of the month for that particuler moment and if 
+    if(day <= 0 || (day > daysPerMonth[month] && !(month == 2 && day == 29) ))
       throw new IllegalArgumentException("day(" + day + ") out of range for the specified month of the year");
       //check if month is in range
+    // this condition holds only when it is a  leap year
     if(month == 2 && day ==29 && !(year % 400 == 0 || (year % 4 == 0 || year % 100 == 0 )) )
       throw new IllegalArgumentException("month(" + month + ") must be 1-12");
 
