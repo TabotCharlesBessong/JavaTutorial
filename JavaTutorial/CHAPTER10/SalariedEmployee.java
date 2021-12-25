@@ -16,6 +16,10 @@ public class SalariedEmployee extends Employee {
   public double getWeeklySalary(){
     return weeklySalary;
   }
+  
+  public double getPaymentAmount(){
+    return getWeeklySalary();
+  }
   public double earnings(){
     return getWeeklySalary();
   }
