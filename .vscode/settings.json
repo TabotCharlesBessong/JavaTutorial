@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
-    "JavaTutorial\\CHAPTER 9 OOP",
-    "JavaTutorial\\CHAPTER10"
+    "JavaTutorial/CHAPTER10",
+    "JavaTutorial/CHAPTER 9 OOP",
+    "JavaTutorial/CHAPTER11"
   ]
 }

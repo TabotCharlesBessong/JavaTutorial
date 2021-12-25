@@ -9,7 +9,7 @@ public class Invoice implements Payable {
       throw new IllegalArgumentException("Quantity must be greater than  or equal to 0");
     if(pricePerItem < 0 )
       throw new IllegalArgumentException("Price of each item must be >= 0");
-      
+
     this.quantity = quantity;
     this.partNum = partNum;
     // this.partDes = partDes;
@@ -44,7 +44,7 @@ public class Invoice implements Payable {
   }
   @Override
   public double getPaymentAmount() {
-    // TODO Auto-generated method stub
+    
     return getQuantity() * getPricePerItem(); 
   }
 }
