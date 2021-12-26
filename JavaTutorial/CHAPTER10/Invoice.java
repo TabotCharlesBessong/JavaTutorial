@@ -1,6 +1,6 @@
 public class Invoice implements Payable {
   private final String partNum;
-  private final String partDes;
+  // private final String partDes;
   private int quantity;
   private double pricePerItem;
 
@@ -13,15 +13,15 @@ public class Invoice implements Payable {
     this.quantity = quantity;
     this.partNum = partNum;
     // this.partDes = partDes;
-    this.partDes =  partDes;
+    // this.partDes =  partDes;
     this.pricePerItem = pricePerItem;
   }
   public String getPartNum(){
     return partNum;
   }
-  public String getPartDes(){
-    return partDes;
-  }
+  // public String getPartDes(){
+    // return partDes;
+  // }
   public void setQuantity(int quantity){
     if(quantity < 0)
       throw new IllegalArgumentException("Quantity cant be negative");
@@ -40,7 +40,7 @@ public class Invoice implements Payable {
   }
   @Override 
   public String toString(){
-    return String.format("%s: %n%s: %n%s: %s: %d %n%s: $%,.2f","invoice","part number",getPartNum(),getPartDes(),"quantity",getQuantity(),"price per  item",getPricePerItem());
+    return String.format("%s: %n%s: %n%s: %s: %d %n%s: $%,.2f","invoice","part number",getPartNum(),"quantity",getQuantity(),"price per  item",getPricePerItem());
   }
   @Override
   public double getPaymentAmount() {
