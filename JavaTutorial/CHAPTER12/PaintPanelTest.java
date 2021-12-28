@@ -13,7 +13,7 @@ public class PaintPanelTest {
     application.add(new JLabel("Drag the mouse to draw"),BorderLayout.SOUTH);
 
     application.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-    application.setSize(400,300);
+    application.setSize(500,500);
     application.setVisible(true);
   }
 }
