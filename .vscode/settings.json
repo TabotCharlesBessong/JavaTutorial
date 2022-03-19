@@ -1,8 +1,11 @@
 {
   "java.project.sourcePaths": [
-    "JavaTutorial/CHAPTER11",
-    "JavaTutorial/CHAPTER10",
-    "JavaTutorial/CHAPTER 9 OOP",
-    "JavaTutorial/CHAPTER12"
+    "POKER",
+    "CHAPTER 7 ARRAY",
+    "CHAPTER 6",
+    "CHAPTER 5",
+    "CHAPTER 4",
+    "CHAPTER 2",
+    "CHAPTER 9 BJECT CLASS"
   ]
 }
