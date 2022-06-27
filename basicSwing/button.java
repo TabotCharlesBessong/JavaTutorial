@@ -1,5 +1,6 @@
 
 import javax.swing.*;
+import java.awt.event.*;
 
 public class button {
   button(){
@@ -11,7 +12,15 @@ public class button {
     f.setLayout(null);
     f.setVisible(true);
     f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-  }
+  
+
+  b.addActionListener(new ActionListener(){
+    public void actionPerformed(ActionEvent ae){
+      // b.setText("Hi! Clicked..");
+      f.setVisible(false);
+    } 
+  } );
+}
 
   public static void main(String[] args) {
     new button();
