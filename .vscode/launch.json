@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch JButtonExample",
+      "request": "launch",
+      "mainClass": "buttons.JButtonExample",
+      "projectName": "JAVATUTO_fccc87bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch input",
+      "request": "launch",
+      "mainClass": "input",
+      "projectName": "JAVATUTO_fccc87bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch window",
+      "request": "launch",
+      "mainClass": "window",
+      "projectName": "JAVATUTO_fccc87bf"
+    },
+    {
+      "type": "java",
+      "name": "Launch button",
+      "request": "launch",
+      "mainClass": "button",
+      "projectName": "JAVATUTO_fccc87bf"
+    },
+    {
+      "type": "java",
       "name": "Launch textEvent",
       "request": "launch",
       "mainClass": "eventHandling.textEvent",
