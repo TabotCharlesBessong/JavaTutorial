@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch textEvent",
+      "request": "launch",
+      "mainClass": "eventHandling.textEvent",
+      "projectName": "JAVATUTO_fccc87bf"
+    },
+    {
+      "type": "java",
       "name": "Launch textD",
       "request": "launch",
       "mainClass": "textD",
