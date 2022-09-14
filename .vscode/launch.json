@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch textD",
+      "request": "launch",
+      "mainClass": "textD",
+      "projectName": "JAVATUTO_fccc87bf"
+    },
+    {
+      "type": "java",
       "request": "attach",
       "name": "Java",
       "port": 5005,
