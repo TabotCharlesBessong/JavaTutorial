@@ -74,3 +74,12 @@ public class textEvent {
 // #reactjs #nodejs  #postgresql #express #mui #redux 
 
 // I look forward to working with you and learning from your experience
+
+// Hello Ruben Arevalo  guten morgen I am Charles Tabot from Cameroon. I am presently working on an idea i have started implementing and it is base around real estate , at least just for the start (just as books were to amazon , so is real estate to us) . And i already have vision on how to grow the idea , and i cant do that alone , i need someone more technical than i am in this tools to be able to build this 
+
+// I use technologies such as 
+// #reactjs #nodejs  #postgresql #express #mui #redux 
+
+// As we will be advancing and to make the services more useful to our users , your data scientist skills in python and sql is very much needed .
+
+// I look forward to working with you and learning from your experience
