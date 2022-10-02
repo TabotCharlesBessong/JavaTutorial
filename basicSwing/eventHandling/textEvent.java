@@ -73,3 +73,18 @@ public class textEvent {
 // As we will be advancing and to make the services more useful to our users , your data scientist skills in python and sql is very much needed .
 
 // I look forward to working with you and learning from your experience
+
+
+// New messages 
+
+// Hello Egor good afternoon , i have seen your profile and i really do like it . 
+
+// I am 20 years old ( just turned 20 6 days ago ) in my third year at the university . 
+
+// I will really like to work with a young talent like you as we still have enough time ahead of us . 
+
+// I want to create a startup which will start by the real estate market and will expand bit by bit as amozon did in the 1990s . 
+
+// I see your stack is same as mine , so lets connect and talk more
+
+// Look forward to this   
